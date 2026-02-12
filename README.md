@@ -89,5 +89,7 @@ This helps measure how well the model distinguishes between spam and non-spam me
 The system allows the user to input their own message and instantly checks whether it is Spam or Not Spam.
 
 Results
-
+OUTPUT :
+<img width="1366" height="730" alt="Image" src="https://github.com/user-attachments/assets/5914d5cb-bbf7-45bf-9e8d-2f97f337fdd6" />
 The model achieves high accuracy (around 95–97% depending on train-test split). The confusion matrix shows strong performance in identifying both spam and legitimate messages with minimal misclassification.
+OU
